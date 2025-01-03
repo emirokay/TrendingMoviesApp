@@ -2,6 +2,9 @@
 
 A Swift/SwiftUI-based iOS application that fetches and displays trending movies and TV shows using The Movie Database (TMDb) API. The app provides an engaging interface to explore popular titles with detailed information, including descriptions, ratings, and release dates. Users can also save their favorite titles for future reference.
 
+## Screen Recording
+https://github.com/user-attachments/assets/cb8a5a2d-c074-4aa3-bb1d-60a011353f94
+
 ## Features
 - **Browse Trending Titles**:
   - Displays trending movies and TV shows fetched dynamically from TMDb.
